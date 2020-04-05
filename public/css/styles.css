@@ -1,0 +1,44 @@
+#searchBtn{
+    color: black;
+}
+
+.container
+{
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+
+.jumbotron
+{
+    font-family: "Courier New", Courier, monospace;
+    color:black!important;
+    font-size: 55px;
+    font-weight: bold;
+    background-color: #cce0ff !important;
+}
+
+#likes
+{
+    text-align: center;
+    font-weight: bold;
+
+}
+#images
+{
+    display: flex;
+    justify-content: center;
+    color:black;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#orientationColor{
+    color:black;
+}
+
+#keyword{
+    color: black;
+}
